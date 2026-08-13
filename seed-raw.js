@@ -1,4 +1,4 @@
-// Seed script using raw HTTP RPC calls to avoid local SDK XDR parsing bugs
+// Seed script using raw HTTP RPC calls to avoid local SDK XDR parsing bugs 
 import {
   rpc,
   Networks,
