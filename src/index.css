@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased transition-colors duration-300;
+    @apply dark:bg-slate-950 dark:text-slate-100;
+    min-height: 100vh;
+  }
+
+  ::selection {
+    @apply bg-brand-100 text-brand-700 dark:bg-brand-900 dark:text-brand-200;
+  }
+}
+
+@layer components {
+  /* Premium White Card */
+  .glass {
+    @apply bg-white border border-slate-200/80 rounded-2xl transition-all duration-300;
+    @apply dark:bg-slate-900 dark:border-slate-800/80;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.04), 0 4px 20px 0 rgb(0 0 0 / 0.06);
+  }
+
+  .glass:hover {
+    @apply border-slate-300/80 dark:border-slate-700/80;
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 0.08), 0 12px 40px 0 rgb(0 0 0 / 0.10);
+  }
+
+  /* Primary CTA Button */
+  .btn-primary {
+    @apply bg-brand-600 hover:bg-brand-700 active:bg-brand-800 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed flex items-center gap-2 hover:shadow-lg hover:shadow-brand-500/25 active:scale-[0.98];
+    box-shadow: 0 2px 8px 0 rgb(99 102 241 / 0.3);
+  }
+
+  /* Ghost / Secondary Button */
+  .btn-ghost {
+    @apply bg-white hover:bg-slate-50 text-slate-700 hover:text-slate-900 font-medium px-6 py-3 rounded-xl transition-all duration-200 border border-slate-200 hover:border-slate-300 flex items-center gap-2 active:scale-[0.98] shadow-sm;
+    @apply dark:bg-slate-900 dark:hover:bg-slate-800 dark:text-slate-300 dark:hover:text-white dark:border-slate-700 dark:hover:border-slate-600;
+  }
+
+  /* Quiz Answer Option */
+  .answer-option {
+    @apply w-full text-left p-4 rounded-xl border border-slate-200 bg-white hover:bg-brand-50 hover:border-brand-300 transition-all duration-200 font-medium text-slate-700 hover:text-brand-700 shadow-sm hover:shadow-md;
+    @apply dark:bg-slate-900 dark:border-slate-700 dark:text-slate-200 dark:hover:bg-brand-950/40 dark:hover:border-brand-500 dark:hover:text-brand-300;
+  }
+
+  .answer-correct {
+    @apply border-emerald-400 bg-emerald-50 text-emerald-700 shadow-md shadow-emerald-100;
+    @apply dark:bg-emerald-950/40 dark:text-emerald-300 dark:shadow-none;
+  }
+
+  .answer-wrong {
+    @apply border-rose-400 bg-rose-50 text-rose-700 shadow-md shadow-rose-100;
+    @apply dark:bg-rose-950/40 dark:text-rose-300 dark:shadow-none;
+  }
+
+  /* Badge pill */
+  .badge {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold;
+  }
+
+  /* Subtle scrollbar */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.12);
+    border-radius: 9999px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.2);
+  }
+
+  .dark .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.14);
+  }
+
+  .dark .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.24);
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-violet-600;
+  }
+
+  .text-gradient-orange {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-red-500;
+  }
+
+  .text-gradient-pink {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500;
+  }
+
+  .challenge-code {
+    @apply font-mono font-black tracking-[0.2em] text-brand-600 dark:text-brand-400;
+  }
+}
+

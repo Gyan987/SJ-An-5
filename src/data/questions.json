@@ -1,0 +1,3794 @@
+[
+  {
+    "id": 1,
+    "text": "Which is the most popular spoken language in the Southern Hemisphere?",
+    "options": [
+      "Portuguese",
+      "English ",
+      "Spanish",
+      "French"
+    ],
+    "correctAnswer": "Portuguese",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 2,
+    "text": "Which of the following landmarks is not located in New York City?",
+    "options": [
+      "Lincoln Memorial",
+      "Empire State Building",
+      "Times Square",
+      "Central Park"
+    ],
+    "correctAnswer": "Lincoln Memorial",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 3,
+    "text": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+    "options": [
+      "World War II",
+      "Vietnam War",
+      "American Civil War",
+      "American Revolutionary War"
+    ],
+    "correctAnswer": "World War II",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 4,
+    "text": "What direction does the Statue of Liberty face?",
+    "options": [
+      "Southeast",
+      "Southwest",
+      "Northwest",
+      "Northeast"
+    ],
+    "correctAnswer": "Southeast",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 5,
+    "text": "What was the soft drink Pepsi originally introduced as?",
+    "options": [
+      "Brad's Drink",
+      "Pepsin Pop",
+      "Carolina Cola",
+      "Pepsin Syrup"
+    ],
+    "correctAnswer": "Brad's Drink",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 6,
+    "text": "The words \"bungalow\" and \"shampoo\" originate from the languages of which country?",
+    "options": [
+      "India",
+      "Papua New Guinea",
+      "Ethiopia",
+      "China"
+    ],
+    "correctAnswer": "India",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 7,
+    "text": "Which product did Nokia, the telecommunications company, originally sell?",
+    "options": [
+      "Paper",
+      "Phones",
+      "Computers",
+      "Processors"
+    ],
+    "correctAnswer": "Paper",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 8,
+    "text": "What is the highest number of Michelin stars a restaurant can receive?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswer": "Three",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 9,
+    "text": "Which is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Barcelona",
+      "Lisboa"
+    ],
+    "correctAnswer": "Madrid",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 10,
+    "text": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "options": [
+      "Bullfighting",
+      "Fiestas",
+      "Flamenco",
+      "Mariachi"
+    ],
+    "correctAnswer": "Bullfighting",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 11,
+    "text": "What does VR stand for?",
+    "options": [
+      "Virtual Reality",
+      "Very Real",
+      "Visual Recognition",
+      "Voice Recognition"
+    ],
+    "correctAnswer": "Virtual Reality",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 12,
+    "text": "What is the name of the Jewish New Year?",
+    "options": [
+      "Rosh Hashanah",
+      "Elul",
+      "New Year",
+      "Succoss"
+    ],
+    "correctAnswer": "Rosh Hashanah",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 13,
+    "text": "Which slogan did the fast food company, McDonald's, use before their \"I'm Lovin' It\" slogan?",
+    "options": [
+      "We Love to See You Smile",
+      "Why Pay More!?",
+      "Have It Your Way",
+      "Making People Happy Through Food"
+    ],
+    "correctAnswer": "We Love to See You Smile",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 14,
+    "text": "In which year did Ghana gain independence?",
+    "options": [
+      "1957",
+      "1947",
+      "1960",
+      "1958"
+    ],
+    "correctAnswer": "1957",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 15,
+    "text": "What is the French word for \"hat\"?",
+    "options": [
+      "Chapeau",
+      "Bonnet",
+      " &Eacute;charpe",
+      " Casque"
+    ],
+    "correctAnswer": "Chapeau",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 16,
+    "text": "Which sign of the zodiac comes between Virgo and Scorpio?",
+    "options": [
+      "Libra",
+      "Gemini",
+      "Taurus",
+      "Capricorn"
+    ],
+    "correctAnswer": "Libra",
+    "category": "General Science"
+  },
+  {
+    "id": 17,
+    "text": "What is Cynophobia the fear of?",
+    "options": [
+      "Dogs",
+      "Birds",
+      "Flying",
+      "Germs"
+    ],
+    "correctAnswer": "Dogs",
+    "category": "General Science"
+  },
+  {
+    "id": 18,
+    "text": "Which of these words means \"idle spectator\"?",
+    "options": [
+      "Gongoozler",
+      "Gossypiboma",
+      "Jentacular",
+      "Meupareunia"
+    ],
+    "correctAnswer": "Gongoozler",
+    "category": "General Science"
+  },
+  {
+    "id": 19,
+    "text": "What does a funambulist walk on?",
+    "options": [
+      "A Tight Rope",
+      "Broken Glass",
+      "Balls",
+      "The Moon"
+    ],
+    "correctAnswer": "A Tight Rope",
+    "category": "General Science"
+  },
+  {
+    "id": 20,
+    "text": "Who was the 1st President of Mexico?",
+    "options": [
+      "Guadalupe Victoria",
+      "Benito Ju&aacute;rez",
+      "Miguel Hidalgo Y Costilla",
+      "Vicente Guerrero"
+    ],
+    "correctAnswer": "Guadalupe Victoria",
+    "category": "History & Culture"
+  },
+  {
+    "id": 21,
+    "text": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a \"Guardians of the Galaxy\" themed ride?",
+    "options": [
+      "Twilight Zone Tower of Terror",
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan's Flight"
+    ],
+    "correctAnswer": "Twilight Zone Tower of Terror",
+    "category": "General Science"
+  },
+  {
+    "id": 22,
+    "text": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "options": [
+      "Spruce Goose",
+      "Noah's Ark",
+      "Fat Man",
+      "Trojan Horse"
+    ],
+    "correctAnswer": "Spruce Goose",
+    "category": "General Science"
+  },
+  {
+    "id": 23,
+    "text": "What step in cellular respiration forms ATP?",
+    "options": [
+      "Oxidative Phosphorylation",
+      "Glycolysis",
+      "Pyruvate Oxidation",
+      "Calvin Cycle"
+    ],
+    "correctAnswer": "Oxidative Phosphorylation",
+    "category": "General Science"
+  },
+  {
+    "id": 24,
+    "text": "Which of the General Mills Corporation's monster cereals was the last to be released in the 1970's?",
+    "options": [
+      "Fruit Brute",
+      "Count Chocula",
+      "Franken Berry",
+      "Boo-Berry"
+    ],
+    "correctAnswer": "Fruit Brute",
+    "category": "General Science"
+  },
+  {
+    "id": 25,
+    "text": "The word \"abulia\" means which of the following?",
+    "options": [
+      "The inability to make decisions",
+      "The inability to stand up",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one's clothes off"
+    ],
+    "correctAnswer": "The inability to make decisions",
+    "category": "General Science"
+  },
+  {
+    "id": 26,
+    "text": "What geometric shape is generally used for stop signs?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Circle",
+      "Triangle"
+    ],
+    "correctAnswer": "Octagon",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 27,
+    "text": "What is the largest organ of the human body?",
+    "options": [
+      "Skin",
+      "Heart",
+      "large Intestine",
+      "Liver"
+    ],
+    "correctAnswer": "Skin",
+    "category": "General Science"
+  },
+  {
+    "id": 28,
+    "text": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+    "options": [
+      "7 years",
+      "2 years",
+      "8 years",
+      "6 months"
+    ],
+    "correctAnswer": "7 years",
+    "category": "General Science"
+  },
+  {
+    "id": 29,
+    "text": "\"A3\", \"B1\", and \"Legal\" are typical names of sizes for what object?",
+    "options": [
+      "Paper",
+      "Airplanes",
+      "Law books",
+      "Phone screens"
+    ],
+    "correctAnswer": "Paper",
+    "category": "General Science"
+  },
+  {
+    "id": 30,
+    "text": "What is the name of the company in Lethal Company?",
+    "options": [
+      "The Company",
+      "Planet Scrap Co.",
+      "Lethal Robotics",
+      "Gordian Shipping Co."
+    ],
+    "correctAnswer": "The Company",
+    "category": "General Science"
+  },
+  {
+    "id": 31,
+    "text": "Whose greyscale face is on the kappa emoticon on Twitch?",
+    "options": [
+      "Josh DeSeno",
+      "Justin DeSeno",
+      "John DeSeno",
+      "Jimmy DeSeno"
+    ],
+    "correctAnswer": "Josh DeSeno",
+    "category": "General Science"
+  },
+  {
+    "id": 32,
+    "text": "Trypophobia is the fear of ",
+    "options": [
+      "groups of holes",
+      "swimming in deep water",
+      "public speaking",
+      "eating too much"
+    ],
+    "correctAnswer": "groups of holes",
+    "category": "General Science"
+  },
+  {
+    "id": 33,
+    "text": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+    "options": [
+      "Petronas Twin Towers, Malaysia",
+      "Emirates Towers, United Arab Emirates",
+      "Huaguoyuan Towers, China",
+      "Palm Towers, Qatar"
+    ],
+    "correctAnswer": "Petronas Twin Towers, Malaysia",
+    "category": "General Science"
+  },
+  {
+    "id": 34,
+    "text": "What is the romanized Chinese word for \"airplane\"?",
+    "options": [
+      "Feiji",
+      "Qiche",
+      "Zongxian",
+      "Huojian"
+    ],
+    "correctAnswer": "Feiji",
+    "category": "General Science"
+  },
+  {
+    "id": 35,
+    "text": "In \"Battle Cats\", what is Moneko / MISS Moneko's critical percentage rate?",
+    "options": [
+      "15%",
+      "20%",
+      "10%",
+      "25%"
+    ],
+    "correctAnswer": "15%",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 36,
+    "text": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+    "options": [
+      "Cherries",
+      "Apricots",
+      "Raisins",
+      "Apples"
+    ],
+    "correctAnswer": "Cherries",
+    "category": "General Science"
+  },
+  {
+    "id": 37,
+    "text": "Which of the following is an existing family in \"The Sims\"?",
+    "options": [
+      "The Goth Family",
+      "The Family",
+      "The Simoleon Family",
+      "The Proud Family"
+    ],
+    "correctAnswer": "The Goth Family",
+    "category": "General Science"
+  },
+  {
+    "id": 38,
+    "text": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+    "options": [
+      "Harry",
+      "Gus",
+      "Phineas",
+      "Ezra"
+    ],
+    "correctAnswer": "Harry",
+    "category": "History & Culture"
+  },
+  {
+    "id": 39,
+    "text": "In aerodynamics, which force pushes an object upwards?",
+    "options": [
+      "Lift",
+      "Drag",
+      "Weight",
+      "Thrust"
+    ],
+    "correctAnswer": "Lift",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 40,
+    "text": "Which of these cities does NOT have a United States Minting location?",
+    "options": [
+      "St. Louis, MO",
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, NY"
+    ],
+    "correctAnswer": "St. Louis, MO",
+    "category": "General Science"
+  },
+  {
+    "id": 41,
+    "text": "Earl Grey tea is black tea flavoured with what?",
+    "options": [
+      "Bergamot oil",
+      "Lavender",
+      "Vanilla",
+      "Honey"
+    ],
+    "correctAnswer": "Bergamot oil",
+    "category": "General Science"
+  },
+  {
+    "id": 42,
+    "text": "What element has the chemical symbol Kr?",
+    "options": [
+      "Krypton",
+      "Kerosine",
+      "Kineticium",
+      "Curium"
+    ],
+    "correctAnswer": "Krypton",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 43,
+    "text": "The drug cartel run by Pablo Escobar originated in which South American city?",
+    "options": [
+      "Medell&iacute;n",
+      "Bogot&aacute;",
+      "Quito",
+      "Cali"
+    ],
+    "correctAnswer": "Medell&iacute;n",
+    "category": "General Science"
+  },
+  {
+    "id": 44,
+    "text": "Sciophobia is the fear of what?",
+    "options": [
+      "Shadows",
+      "Eating",
+      "Bright lights",
+      "Transportation"
+    ],
+    "correctAnswer": "Shadows",
+    "category": "General Science"
+  },
+  {
+    "id": 45,
+    "text": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+    "options": [
+      "Modernism",
+      "Neoclassical",
+      "Baroque",
+      "Gothic Revival"
+    ],
+    "correctAnswer": "Modernism",
+    "category": "General Science"
+  },
+  {
+    "id": 46,
+    "text": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+    "options": [
+      "Ad hominem",
+      "Post hoc ergo propter hoc",
+      "Tu quoque",
+      "Argumentum ad populum"
+    ],
+    "correctAnswer": "Ad hominem",
+    "category": "General Science"
+  },
+  {
+    "id": 47,
+    "text": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "options": [
+      "Turkish",
+      "German",
+      "Danish",
+      "Polish"
+    ],
+    "correctAnswer": "Turkish",
+    "category": "General Science"
+  },
+  {
+    "id": 48,
+    "text": "Which one of these Swedish companies was founded in 1943?",
+    "options": [
+      "IKEA",
+      "H & M",
+      "Lindex",
+      "Clas Ohlson"
+    ],
+    "correctAnswer": "IKEA",
+    "category": "General Science"
+  },
+  {
+    "id": 49,
+    "text": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+    "options": [
+      "Demolition",
+      "The Dream Team",
+      "The Bushwhackers",
+      "The British Bulldogs"
+    ],
+    "correctAnswer": "Demolition",
+    "category": "General Science"
+  },
+  {
+    "id": 50,
+    "text": "How many colors are there in a rainbow?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "7",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 51,
+    "text": "In what year did Canada stop producing the penny?",
+    "options": [
+      "2012",
+      "2013",
+      "2011",
+      "2010"
+    ],
+    "correctAnswer": "2012",
+    "category": "General Science"
+  },
+  {
+    "id": 52,
+    "text": "Which of the following carbonated soft drinks were introduced first?",
+    "options": [
+      "Dr. Pepper",
+      "Coca-Cola",
+      "Sprite",
+      "Mountain Dew"
+    ],
+    "correctAnswer": "Dr. Pepper",
+    "category": "General Science"
+  },
+  {
+    "id": 53,
+    "text": "What technology is named after a tenth-century ruler of Denmark and Norway?",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "GPS",
+      "Internet"
+    ],
+    "correctAnswer": "Bluetooth",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 54,
+    "text": "Which of the three astronauts of the Apollo 11 spaceflight did NOT walk on the moon?",
+    "options": [
+      "Michael Collins",
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "None of them"
+    ],
+    "correctAnswer": "Michael Collins",
+    "category": "General Science"
+  },
+  {
+    "id": 55,
+    "text": "The word \"astasia\" means which of the following?",
+    "options": [
+      "The inability to stand up",
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one's clothes off"
+    ],
+    "correctAnswer": "The inability to stand up",
+    "category": "General Science"
+  },
+  {
+    "id": 56,
+    "text": "What was Mountain Dew's original slogan?",
+    "options": [
+      "Yahoo! Mountain Dew... It'll tickle your innards!",
+      "Give Me A Dew",
+      "Do The Dew",
+      "Get' that barefoot feelin' drinkin' Mountain Dew"
+    ],
+    "correctAnswer": "Yahoo! Mountain Dew... It'll tickle your innards!",
+    "category": "General Science"
+  },
+  {
+    "id": 57,
+    "text": "What is the name of the extra pedal on a manual or standard transmission car?",
+    "options": [
+      "Clutch",
+      "Shifter",
+      "Booster",
+      "Parking Brake"
+    ],
+    "correctAnswer": "Clutch",
+    "category": "General Science"
+  },
+  {
+    "id": 58,
+    "text": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "category": "History & Culture"
+  },
+  {
+    "id": 59,
+    "text": "Which of the following card games revolves around numbers and basic math?",
+    "options": [
+      "Uno",
+      "Go Fish",
+      "Twister",
+      "Munchkin"
+    ],
+    "correctAnswer": "Uno",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 60,
+    "text": "What is the most frequently used letter in the english alphabet?",
+    "options": [
+      "E",
+      "A",
+      "I",
+      "O"
+    ],
+    "correctAnswer": "E",
+    "category": "General Science"
+  },
+  {
+    "id": 61,
+    "text": "The \"fairy\" type made it's debut in which generation of the Pokemon core series games?",
+    "options": [
+      "6th",
+      "2nd",
+      "7th",
+      "4th"
+    ],
+    "correctAnswer": "6th",
+    "category": "General Science"
+  },
+  {
+    "id": 62,
+    "text": "Which American manufactured submachine gun was informally known by the American soldiers that used it as \"Grease Gun\"?",
+    "options": [
+      "M3",
+      "Colt 9mm",
+      "Thompson",
+      "MAC-10"
+    ],
+    "correctAnswer": "M3",
+    "category": "General Science"
+  },
+  {
+    "id": 63,
+    "text": "What English word means to \"think deeply\"?",
+    "options": [
+      "Contemplate",
+      "Confiscate",
+      "Constipate",
+      "Condensate"
+    ],
+    "correctAnswer": "Contemplate",
+    "category": "General Science"
+  },
+  {
+    "id": 64,
+    "text": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+    "options": [
+      "Truth",
+      "Answer",
+      "Cause",
+      "Source"
+    ],
+    "correctAnswer": "Truth",
+    "category": "General Science"
+  },
+  {
+    "id": 65,
+    "text": "If a person's hair is described as 'Titian', what colour is it?",
+    "options": [
+      "Red",
+      "Blonde",
+      "Brunette",
+      "Black"
+    ],
+    "correctAnswer": "Red",
+    "category": "General Science"
+  },
+  {
+    "id": 66,
+    "text": "This field is sometimes known as \"The Dismal Science.\"",
+    "options": [
+      "Economics",
+      "Philosophy",
+      "Politics",
+      "Physics"
+    ],
+    "correctAnswer": "Economics",
+    "category": "General Science"
+  },
+  {
+    "id": 67,
+    "text": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "options": [
+      "Jumping over an office chair",
+      "Jumping backwards over a desk",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ],
+    "correctAnswer": "Jumping over an office chair",
+    "category": "General Science"
+  },
+  {
+    "id": 68,
+    "text": "What year was Queen Elizabeth II born?",
+    "options": [
+      "1926",
+      "1923",
+      "1929",
+      "1930"
+    ],
+    "correctAnswer": "1926",
+    "category": "General Science"
+  },
+  {
+    "id": 69,
+    "text": "Who invented Pastafarianism?",
+    "options": [
+      "Bobby Henderson",
+      "Eric Tignor",
+      "Bill Nye",
+      "Zach Soldi"
+    ],
+    "correctAnswer": "Bobby Henderson",
+    "category": "General Science"
+  },
+  {
+    "id": 70,
+    "text": "What was the first ever London Underground line to be built?",
+    "options": [
+      "Metropolitan Line",
+      "Circle Line",
+      "Bakerloo Line",
+      "Victoria Line"
+    ],
+    "correctAnswer": "Metropolitan Line",
+    "category": "General Science"
+  },
+  {
+    "id": 71,
+    "text": "What is the official language of Brazil?",
+    "options": [
+      "Portuguese",
+      "Brazilian",
+      "Spanish",
+      "English"
+    ],
+    "correctAnswer": "Portuguese",
+    "category": "General Science"
+  },
+  {
+    "id": 72,
+    "text": "\"Nephelococcygia\" is the practice of doing what? ",
+    "options": [
+      "Finding shapes in clouds",
+      "Sleeping with your eyes open",
+      "Breaking glass with your voice",
+      "Swimming in freezing water"
+    ],
+    "correctAnswer": "Finding shapes in clouds",
+    "category": "General Science"
+  },
+  {
+    "id": 73,
+    "text": "What country does sushi & karaoke come from?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Vietnam"
+    ],
+    "correctAnswer": "Japan",
+    "category": "General Science"
+  },
+  {
+    "id": 74,
+    "text": "Which essential condiment is also known as Japanese horseradish?",
+    "options": [
+      "Wasabi ",
+      "Mentsuyu",
+      "Karashi",
+      "Ponzu"
+    ],
+    "correctAnswer": "Wasabi ",
+    "category": "General Science"
+  },
+  {
+    "id": 75,
+    "text": "Who is the origin of the quote \"What doesn't kill you makes you stronger\"?",
+    "options": [
+      "Friedrich Nietzsche",
+      " G. Gordon Liddy",
+      "Kelly Clarkson",
+      "Christopher Hitchens"
+    ],
+    "correctAnswer": "Friedrich Nietzsche",
+    "category": "General Science"
+  },
+  {
+    "id": 76,
+    "text": "What is the average life span of a garden ant?",
+    "options": [
+      "15 years",
+      "24 hours",
+      "1 week",
+      "3 years"
+    ],
+    "correctAnswer": "15 years",
+    "category": "General Science"
+  },
+  {
+    "id": 77,
+    "text": "Who is the founder of \"The Lego Group\"?",
+    "options": [
+      "Ole Kirk Christiansen",
+      " Jens Niels Christiansen",
+      "Kirstine Christiansen",
+      " Gerhardt Kirk Christiansen"
+    ],
+    "correctAnswer": "Ole Kirk Christiansen",
+    "category": "General Science"
+  },
+  {
+    "id": 78,
+    "text": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+    "options": [
+      "Pancreatic",
+      "Bone",
+      "Liver",
+      "Stomach"
+    ],
+    "correctAnswer": "Pancreatic",
+    "category": "General Science"
+  },
+  {
+    "id": 79,
+    "text": "When someone is inexperienced they are said to be what color?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    "correctAnswer": "Green",
+    "category": "General Science"
+  },
+  {
+    "id": 80,
+    "text": "What is the name of NASA's most famous space telescope?",
+    "options": [
+      "Hubble Space Telescope",
+      "Big Eye",
+      "Death Star",
+      "Millenium Falcon"
+    ],
+    "correctAnswer": "Hubble Space Telescope",
+    "category": "General Science"
+  },
+  {
+    "id": 81,
+    "text": "What is the largest living species of penguin?",
+    "options": [
+      "Emperor",
+      "King",
+      "Gentoo",
+      "Adele"
+    ],
+    "correctAnswer": "Emperor",
+    "category": "General Science"
+  },
+  {
+    "id": 82,
+    "text": "Which of the following is NOT one of Aesop's fables?",
+    "options": [
+      "The Fox and the Hound",
+      "The Fox and the Grapes",
+      "The Tortoise and the Hare",
+      "The Frog and the Ox"
+    ],
+    "correctAnswer": "The Fox and the Hound",
+    "category": "General Science"
+  },
+  {
+    "id": 83,
+    "text": "Bob and Mike Bryan were well known brothers in which sport?",
+    "options": [
+      "Tennis",
+      "Basketball",
+      "Football",
+      "Baseball"
+    ],
+    "correctAnswer": "Tennis",
+    "category": "General Science"
+  },
+  {
+    "id": 84,
+    "text": "The Canadian $1 coin is colloquially known as a what?",
+    "options": [
+      "Loonie",
+      "Boolie",
+      "Foolie",
+      "Moodie"
+    ],
+    "correctAnswer": "Loonie",
+    "category": "General Science"
+  },
+  {
+    "id": 85,
+    "text": "Originally another word for poppy, coquelicot is a shade of what?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    "correctAnswer": "Red",
+    "category": "General Science"
+  },
+  {
+    "id": 86,
+    "text": "What do sailors call the front of a boat?",
+    "options": [
+      "Bow",
+      "Stern",
+      "Port",
+      "Starboard"
+    ],
+    "correctAnswer": "Bow",
+    "category": "General Science"
+  },
+  {
+    "id": 87,
+    "text": "How many letters are there in the English alphabet?",
+    "options": [
+      "26",
+      "28",
+      "23",
+      "24"
+    ],
+    "correctAnswer": "26",
+    "category": "General Science"
+  },
+  {
+    "id": 88,
+    "text": "In which fast food chain can you order a Jamocha Shake?",
+    "options": [
+      "Arby's",
+      "McDonald's",
+      "Burger King",
+      "Wendy's"
+    ],
+    "correctAnswer": "Arby's",
+    "category": "General Science"
+  },
+  {
+    "id": 89,
+    "text": "Area 51 is located in which US state?",
+    "options": [
+      "Nevada",
+      "Arizona",
+      "New Mexico",
+      "Utah"
+    ],
+    "correctAnswer": "Nevada",
+    "category": "General Science"
+  },
+  {
+    "id": 90,
+    "text": "What is real haggis made of?",
+    "options": [
+      "Sheep's Heart, Liver and Lungs",
+      "Sheep's Heart, Kidneys and Lungs",
+      "Sheep's Liver, Kidneys and Eyes",
+      "Whole Sheep"
+    ],
+    "correctAnswer": "Sheep's Heart, Liver and Lungs",
+    "category": "General Science"
+  },
+  {
+    "id": 91,
+    "text": "Which of the following is not an Ivy League University?",
+    "options": [
+      "Stanford",
+      "University of Pennsylvania",
+      "Harvard",
+      "Princeton"
+    ],
+    "correctAnswer": "Stanford",
+    "category": "General Science"
+  },
+  {
+    "id": 92,
+    "text": "What year was the first Apple iPod introduced?",
+    "options": [
+      "2001",
+      "2000",
+      "1999",
+      "1998"
+    ],
+    "correctAnswer": "2001",
+    "category": "General Science"
+  },
+  {
+    "id": 93,
+    "text": "What year was Walt Disney born?",
+    "options": [
+      "1901",
+      "1902",
+      "1903",
+      "1900"
+    ],
+    "correctAnswer": "1901",
+    "category": "General Science"
+  },
+  {
+    "id": 94,
+    "text": "When was the website reddit founded ?",
+    "options": [
+      "2005",
+      "2008",
+      "2004",
+      "2006"
+    ],
+    "correctAnswer": "2005",
+    "category": "General Science"
+  },
+  {
+    "id": 95,
+    "text": "What year was the RoboSapien toy robot released?",
+    "options": [
+      "2004",
+      "2000",
+      "2001",
+      "2006"
+    ],
+    "correctAnswer": "2004",
+    "category": "General Science"
+  },
+  {
+    "id": 96,
+    "text": "Which of the following blood component forms a plug at the site of injuries?",
+    "options": [
+      "Platelets",
+      "Red blood cells",
+      "White blood cells",
+      "Blood plasma"
+    ],
+    "correctAnswer": "Platelets",
+    "category": "General Science"
+  },
+  {
+    "id": 97,
+    "text": "The Flag of the European Union has how many stars on it?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "12",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 98,
+    "text": "What nuts are used in the production of marzipan?",
+    "options": [
+      "Almonds",
+      "Peanuts",
+      "Walnuts",
+      "Pistachios"
+    ],
+    "correctAnswer": "Almonds",
+    "category": "General Science"
+  },
+  {
+    "id": 99,
+    "text": "Which sign of the zodiac is represented by the Crab?",
+    "options": [
+      "Cancer",
+      "Libra",
+      "Virgo",
+      "Sagittarius"
+    ],
+    "correctAnswer": "Cancer",
+    "category": "General Science"
+  },
+  {
+    "id": 100,
+    "text": "The Swedish word \"Grunka\" means what in English?",
+    "options": [
+      "Thing",
+      "People",
+      "Place",
+      "Pineapple"
+    ],
+    "correctAnswer": "Thing",
+    "category": "General Science"
+  },
+  {
+    "id": 101,
+    "text": "A doctor with a PhD is a doctor of what?",
+    "options": [
+      "Philosophy",
+      "Psychology",
+      "Phrenology",
+      "Physical Therapy"
+    ],
+    "correctAnswer": "Philosophy",
+    "category": "General Science"
+  },
+  {
+    "id": 102,
+    "text": "What is the Swedish word for \"window\"?",
+    "options": [
+      "F&ouml;nster",
+      "H&aring;l",
+      "Sk&auml;rm",
+      "Ruta"
+    ],
+    "correctAnswer": "F&ouml;nster",
+    "category": "General Science"
+  },
+  {
+    "id": 103,
+    "text": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "options": [
+      "Plum",
+      "Apple",
+      "Peach",
+      "Pear"
+    ],
+    "correctAnswer": "Plum",
+    "category": "General Science"
+  },
+  {
+    "id": 104,
+    "text": "Which country, not including Japan, has the most people of Japanese descent?",
+    "options": [
+      "Brazil",
+      "China",
+      "South Korea",
+      "United States of America"
+    ],
+    "correctAnswer": "Brazil",
+    "category": "General Science"
+  },
+  {
+    "id": 105,
+    "text": "Which type of cutlery is most suited for eating soup?",
+    "options": [
+      "Spoon",
+      "Fork",
+      "Knife",
+      "Chopsticks"
+    ],
+    "correctAnswer": "Spoon",
+    "category": "General Science"
+  },
+  {
+    "id": 106,
+    "text": "Which of these companies does NOT manufacture automobiles?",
+    "options": [
+      "Ducati",
+      "Nissan",
+      "GMC",
+      "Fiat"
+    ],
+    "correctAnswer": "Ducati",
+    "category": "General Science"
+  },
+  {
+    "id": 107,
+    "text": "What nation produces roughly 40% of the world's vanilla?",
+    "options": [
+      "Madagascar",
+      "Indonesia",
+      "China",
+      "Mexico"
+    ],
+    "correctAnswer": "Madagascar",
+    "category": "General Science"
+  },
+  {
+    "id": 108,
+    "text": "Which of these Indian languages is not part of the Indo-European language family?",
+    "options": [
+      "Tamil",
+      "Hindi",
+      "Punjabi",
+      "Urdu"
+    ],
+    "correctAnswer": "Tamil",
+    "category": "General Science"
+  },
+  {
+    "id": 109,
+    "text": "Roughly how many ingested apple seeds would it take to receive a fatal dose of cyanide?",
+    "options": [
+      "200",
+      "20",
+      "2,000",
+      "20,000"
+    ],
+    "correctAnswer": "200",
+    "category": "General Science"
+  },
+  {
+    "id": 110,
+    "text": "What character was once considered to be the 27th letter of the alphabet?",
+    "options": [
+      "Ampersand",
+      "Interrobang",
+      "Tilde",
+      "Pilcrow"
+    ],
+    "correctAnswer": "Ampersand",
+    "category": "General Science"
+  },
+  {
+    "id": 111,
+    "text": "Which film star has his statue in Leicester Square?",
+    "options": [
+      "Charlie Chaplin",
+      "Paul Newman",
+      "Rowan Atkinson ",
+      "Alfred Hitchcock"
+    ],
+    "correctAnswer": "Charlie Chaplin",
+    "category": "General Science"
+  },
+  {
+    "id": 112,
+    "text": "What is the full title of the Prime Minister of the UK?",
+    "options": [
+      "First Lord of the Treasury",
+      "Duke of Cambridge",
+      "Her Majesty's Loyal Opposition",
+      "Manager of the Crown Estate"
+    ],
+    "correctAnswer": "First Lord of the Treasury",
+    "category": "General Science"
+  },
+  {
+    "id": 113,
+    "text": "Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?",
+    "options": [
+      "282 feet",
+      "79 feet",
+      "1,640 feet",
+      "12,092 feet"
+    ],
+    "correctAnswer": "282 feet",
+    "category": "General Science"
+  },
+  {
+    "id": 114,
+    "text": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+    "options": [
+      "Tango",
+      "Target",
+      "Taxi",
+      "Turkey"
+    ],
+    "correctAnswer": "Tango",
+    "category": "General Science"
+  },
+  {
+    "id": 115,
+    "text": "What is the name of Poland in Polish?",
+    "options": [
+      "Polska",
+      "Pupcia",
+      "Polszka",
+      "P&oacute;land"
+    ],
+    "correctAnswer": "Polska",
+    "category": "General Science"
+  },
+  {
+    "id": 116,
+    "text": "When did the website \"Facebook\" launch?",
+    "options": [
+      "2004",
+      "2005",
+      "2003",
+      "2006"
+    ],
+    "correctAnswer": "2004",
+    "category": "General Science"
+  },
+  {
+    "id": 117,
+    "text": "Terry Gilliam was an animator that worked with which British comedy group?",
+    "options": [
+      "Monty Python",
+      "The Goodies&lrm;",
+      "The League of Gentlemen&lrm;",
+      "The Penny Dreadfuls"
+    ],
+    "correctAnswer": "Monty Python",
+    "category": "General Science"
+  },
+  {
+    "id": 118,
+    "text": "Which mountain has the highest peak in Africa?",
+    "options": [
+      "Mount Kilimanjaro, Tanzania",
+      "Mount Kenya, Kenya",
+      "Mount Stanley, DR Congo/Uganda",
+      "Mount Speke, Uganda"
+    ],
+    "correctAnswer": "Mount Kilimanjaro, Tanzania",
+    "category": "General Science"
+  },
+  {
+    "id": 119,
+    "text": "Which of the following is not another name for the eggplant?",
+    "options": [
+      "Potimarron",
+      "Brinjal",
+      "Guinea Squash",
+      "Melongene"
+    ],
+    "correctAnswer": "Potimarron",
+    "category": "General Science"
+  },
+  {
+    "id": 120,
+    "text": "What was Bank of America originally established as?",
+    "options": [
+      "Bank of Italy",
+      "Bank of Long Island",
+      "Bank of Pennsylvania",
+      "Bank of Charlotte"
+    ],
+    "correctAnswer": "Bank of Italy",
+    "category": "General Science"
+  },
+  {
+    "id": 121,
+    "text": "Which country has the Union Jack in its flag?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Canada",
+      "Hong Kong"
+    ],
+    "correctAnswer": "New Zealand",
+    "category": "General Science"
+  },
+  {
+    "id": 122,
+    "text": "What alcoholic drink is mainly made from juniper berries?",
+    "options": [
+      "Gin",
+      "Vodka",
+      "Rum",
+      "Tequila"
+    ],
+    "correctAnswer": "Gin",
+    "category": "General Science"
+  },
+  {
+    "id": 123,
+    "text": "What is the Spanish word for \"donkey\"?",
+    "options": [
+      "Burro",
+      "Caballo",
+      "Toro",
+      "Perro"
+    ],
+    "correctAnswer": "Burro",
+    "category": "General Science"
+  },
+  {
+    "id": 124,
+    "text": "In past times, what would a gentleman keep in his fob pocket?",
+    "options": [
+      "Watch",
+      "Money",
+      "Keys",
+      "Notebook"
+    ],
+    "correctAnswer": "Watch",
+    "category": "General Science"
+  },
+  {
+    "id": 125,
+    "text": "Where did the pineapple plant originate?",
+    "options": [
+      "South America",
+      "Hawaii",
+      "Europe",
+      "Asia"
+    ],
+    "correctAnswer": "South America",
+    "category": "General Science"
+  },
+  {
+    "id": 126,
+    "text": "Which American-owned brewery led the country in sales by volume in 2015?",
+    "options": [
+      "D. G. Yuengling and Son, Inc",
+      "Anheuser Busch",
+      "Boston Beer Company",
+      "Miller Coors"
+    ],
+    "correctAnswer": "D. G. Yuengling and Son, Inc",
+    "category": "General Science"
+  },
+  {
+    "id": 127,
+    "text": "In which cardinal direction does the Sun rise from?",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "correctAnswer": "East",
+    "category": "General Science"
+  },
+  {
+    "id": 128,
+    "text": "What organ of the body produces bile?",
+    "options": [
+      "Liver",
+      "Gallbladder",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correctAnswer": "Liver",
+    "category": "General Science"
+  },
+  {
+    "id": 129,
+    "text": "A criminal who has \"cooked the books\" has engaged in what kind of illegal behavior?",
+    "options": [
+      "Accounting Fraud",
+      "Money Laundering",
+      "Extortion",
+      "Blackmail"
+    ],
+    "correctAnswer": "Accounting Fraud",
+    "category": "General Science"
+  },
+  {
+    "id": 130,
+    "text": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+    "options": [
+      "Richard Branson",
+      "Alan Sugar",
+      "Donald Trump",
+      "Bill Gates"
+    ],
+    "correctAnswer": "Richard Branson",
+    "category": "General Science"
+  },
+  {
+    "id": 131,
+    "text": "According to the United States' CDC, one in how many Americans die annually due to smoking?",
+    "options": [
+      "Five",
+      "Twenty",
+      "Ten",
+      "One hundred"
+    ],
+    "correctAnswer": "Five",
+    "category": "History & Culture"
+  },
+  {
+    "id": 132,
+    "text": "What is the airspeed velocity of an unladen swallow?",
+    "options": [
+      "24 MPH",
+      "15 MPH",
+      "20 MPH",
+      "200 MPH"
+    ],
+    "correctAnswer": "24 MPH",
+    "category": "General Science"
+  },
+  {
+    "id": 133,
+    "text": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "options": [
+      "1 Month",
+      "3 Weeks",
+      "1 Week",
+      "2 Months"
+    ],
+    "correctAnswer": "1 Month",
+    "category": "General Science"
+  },
+  {
+    "id": 134,
+    "text": "Which of these Nicktoons were NOT originally a short on Oh Yeah! Cartoons before becoming their own series?",
+    "options": [
+      "Danny Phantom",
+      "ChalkZone",
+      "My Life as a Teenage Robot",
+      "The Fairly OddParents"
+    ],
+    "correctAnswer": "Danny Phantom",
+    "category": "General Science"
+  },
+  {
+    "id": 135,
+    "text": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+    "options": [
+      "Catalan",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ],
+    "correctAnswer": "Catalan",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 136,
+    "text": "What is a \"dakimakura\"?",
+    "options": [
+      "A body pillow",
+      "A Chinese meal, essentially composed of fish",
+      "A yoga posture",
+      "A word used to describe two people who truly love each other"
+    ],
+    "correctAnswer": "A body pillow",
+    "category": "General Science"
+  },
+  {
+    "id": 137,
+    "text": "What does the Latin phrase \"Veni, vidi, vici\" translate into English?",
+    "options": [
+      "I came, I saw, I conquered",
+      "See no evil, hear no evil, speak no evil",
+      "Life, liberty, and happiness",
+      "Past, present, and future"
+    ],
+    "correctAnswer": "I came, I saw, I conquered",
+    "category": "General Science"
+  },
+  {
+    "id": 138,
+    "text": "In ancient Greece, if your job were a \"hippeus\" which of these would you own?",
+    "options": [
+      "Horse",
+      "Weave",
+      "Guitar",
+      "Boat"
+    ],
+    "correctAnswer": "Horse",
+    "category": "History & Culture"
+  },
+  {
+    "id": 139,
+    "text": "When was Hubba Bubba first introduced?",
+    "options": [
+      "1979",
+      "1984",
+      "1972",
+      "1980"
+    ],
+    "correctAnswer": "1979",
+    "category": "General Science"
+  },
+  {
+    "id": 140,
+    "text": "What is the name of the very first video uploaded to YouTube?",
+    "options": [
+      "Me at the zoo",
+      "tribute",
+      "carrie rides a truck",
+      "Her new puppy from great grandpa vern."
+    ],
+    "correctAnswer": "Me at the zoo",
+    "category": "General Science"
+  },
+  {
+    "id": 141,
+    "text": "In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?",
+    "options": [
+      "1986",
+      "2001",
+      "1942",
+      "1909"
+    ],
+    "correctAnswer": "1986",
+    "category": "General Science"
+  },
+  {
+    "id": 142,
+    "text": "Of the following months, which has the most amount of days?",
+    "options": [
+      "December",
+      "April",
+      "September",
+      "November "
+    ],
+    "correctAnswer": "December",
+    "category": "General Science"
+  },
+  {
+    "id": 143,
+    "text": "In which country was the 1992 Summer Olympics Games held?",
+    "options": [
+      "Spain",
+      "Russia",
+      "Korea",
+      "USA"
+    ],
+    "correctAnswer": "Spain",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 144,
+    "text": "What is the most commonly used noun in the English language?",
+    "options": [
+      "Time",
+      "Home",
+      "Water",
+      "Man"
+    ],
+    "correctAnswer": "Time",
+    "category": "General Science"
+  },
+  {
+    "id": 145,
+    "text": "What machine element is located in the center of fidget spinners?",
+    "options": [
+      "Bearings",
+      "Axles",
+      "Gears",
+      "Belts"
+    ],
+    "correctAnswer": "Bearings",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 146,
+    "text": "Where is Apple Inc. headquartered?",
+    "options": [
+      "Cupertino, California",
+      "Redwood City, California",
+      "Redmond, Washington",
+      "Santa Monica, CA"
+    ],
+    "correctAnswer": "Cupertino, California",
+    "category": "General Science"
+  },
+  {
+    "id": 147,
+    "text": "A statue of Charles Darwin sits in what London museum?",
+    "options": [
+      "Natural History Museum",
+      "Tate",
+      "British Museum",
+      "Science Museum"
+    ],
+    "correctAnswer": "Natural History Museum",
+    "category": "General Science"
+  },
+  {
+    "id": 148,
+    "text": "The lesser-known continuation of the saying \"Curiosity killed the cat...\" is:",
+    "options": [
+      "\"...but satisfaction brought it back.\"",
+      "\"...and the silent mouse remained thereat.\"",
+      "\"...which taught it not to do that.\"",
+      "\"...but death by the truth is better than ignorance.\""
+    ],
+    "correctAnswer": "\"...but satisfaction brought it back.\"",
+    "category": "General Science"
+  },
+  {
+    "id": 149,
+    "text": "How many calories are in a 355 ml can of Pepsi Cola?",
+    "options": [
+      "150",
+      "200",
+      "100",
+      "155"
+    ],
+    "correctAnswer": "150",
+    "category": "General Science"
+  },
+  {
+    "id": 150,
+    "text": "What was the name of Sqiudward's bad painting in the Spongebob episode \"Artist Unknown?\"",
+    "options": [
+      "Bold and Brash",
+      "Squidward en Repose",
+      "Rippy Bits",
+      "Tilted Perspectives"
+    ],
+    "correctAnswer": "Bold and Brash",
+    "category": "History & Culture"
+  },
+  {
+    "id": 151,
+    "text": "Who played General Aladeen in The Dictator?",
+    "options": [
+      "Sacha Baron Cohen",
+      "Johnny Depp",
+      "James Franco",
+      "Leonardo Dicaprio"
+    ],
+    "correctAnswer": "Sacha Baron Cohen",
+    "category": "General Science"
+  },
+  {
+    "id": 152,
+    "text": "What was the third country to have a McDonald's restaurant?",
+    "options": [
+      "Costa Rica",
+      "Japan",
+      "France",
+      "Australia"
+    ],
+    "correctAnswer": "Costa Rica",
+    "category": "General Science"
+  },
+  {
+    "id": 153,
+    "text": "What company owns Outlook?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Yahoo"
+    ],
+    "correctAnswer": "Microsoft",
+    "category": "General Science"
+  },
+  {
+    "id": 154,
+    "text": "The file hosting service, \"Google Drive\" was launched on what day?",
+    "options": [
+      "April 24, 2012",
+      "January 12, 2014",
+      "November 14, 2008",
+      "January 20, 2010"
+    ],
+    "correctAnswer": "April 24, 2012",
+    "category": "General Science"
+  },
+  {
+    "id": 155,
+    "text": "What alcoholic drink is made from molasses?",
+    "options": [
+      "Rum",
+      "Gin",
+      "Vodka",
+      "Whisky"
+    ],
+    "correctAnswer": "Rum",
+    "category": "General Science"
+  },
+  {
+    "id": 156,
+    "text": "Who is considered the \"Father of Modern Philosophy\"?",
+    "options": [
+      "René Descartes",
+      "Plato",
+      "Albert Einstein",
+      "Antoine Lavoiser"
+    ],
+    "correctAnswer": "René Descartes",
+    "category": "General Science"
+  },
+  {
+    "id": 157,
+    "text": "Scotch whisky and Drambuie make up which cocktail?",
+    "options": [
+      "Rusty Nail",
+      "Screwdriver",
+      "Sex on the Beach",
+      "Manhattan"
+    ],
+    "correctAnswer": "Rusty Nail",
+    "category": "General Science"
+  },
+  {
+    "id": 158,
+    "text": "Which company did Valve cooperate with in the creation of the Vive?",
+    "options": [
+      "HTC",
+      "Oculus",
+      "Google",
+      "Razer"
+    ],
+    "correctAnswer": "HTC",
+    "category": "General Science"
+  },
+  {
+    "id": 159,
+    "text": "All Souls and Merton are constituent colleges of what university?",
+    "options": [
+      "Oxford",
+      "Cambridge",
+      "Manchester",
+      "Leeds"
+    ],
+    "correctAnswer": "Oxford",
+    "category": "General Science"
+  },
+  {
+    "id": 160,
+    "text": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "options": [
+      "OCBC",
+      "HSBC",
+      "Standard Chartered",
+      "Bank of China"
+    ],
+    "correctAnswer": "OCBC",
+    "category": "General Science"
+  },
+  {
+    "id": 161,
+    "text": "The Quadrangularis Reversum is best described as which of the following?",
+    "options": [
+      "A percussion instrument",
+      "A building in Oxford University",
+      "A chess move",
+      "A geometric theorem"
+    ],
+    "correctAnswer": "A percussion instrument",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 162,
+    "text": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+    "options": [
+      "Yale University",
+      "Princeton University",
+      "Harvard University",
+      "Columbia University"
+    ],
+    "correctAnswer": "Yale University",
+    "category": "General Science"
+  },
+  {
+    "id": 163,
+    "text": "What fast food chain has the most locations globally? ",
+    "options": [
+      "Subway",
+      "Starbucks",
+      "McDonalds",
+      "KFC"
+    ],
+    "correctAnswer": "Subway",
+    "category": "General Science"
+  },
+  {
+    "id": 164,
+    "text": "The phrase \"accident waiting to happen\" is an example of what type of figure of speech?",
+    "options": [
+      "Idiom",
+      "Simile",
+      "Metaphor",
+      "Analogy"
+    ],
+    "correctAnswer": "Idiom",
+    "category": "General Science"
+  },
+  {
+    "id": 165,
+    "text": "Which country developed the AK-47 assault rifle?",
+    "options": [
+      "Soviet Union",
+      "Iran",
+      "Israel",
+      "Poland"
+    ],
+    "correctAnswer": "Soviet Union",
+    "category": "General Science"
+  },
+  {
+    "id": 166,
+    "text": "How many syllables make up a haiku?",
+    "options": [
+      "17",
+      "15",
+      "10",
+      "21"
+    ],
+    "correctAnswer": "17",
+    "category": "General Science"
+  },
+  {
+    "id": 167,
+    "text": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+    "options": [
+      "Swiss Air",
+      "Air France",
+      "British Airways",
+      "TWA"
+    ],
+    "correctAnswer": "Swiss Air",
+    "category": "General Science"
+  },
+  {
+    "id": 168,
+    "text": "In Half-Life, what is the name of the alien that attaches to heads?",
+    "options": [
+      "Headcrab",
+      "Bullsquid",
+      "Vortigaunt",
+      "Facehugger"
+    ],
+    "correctAnswer": "Headcrab",
+    "category": "General Science"
+  },
+  {
+    "id": 169,
+    "text": "Which language is most widely spoken in Switzerland?",
+    "options": [
+      "German",
+      "French",
+      "Italian",
+      "Swiss"
+    ],
+    "correctAnswer": "German",
+    "category": "General Science"
+  },
+  {
+    "id": 170,
+    "text": "The New York Times slogan is, \"All the News That's Fit to...\"",
+    "options": [
+      "Print",
+      "Digest",
+      "Look",
+      "Read"
+    ],
+    "correctAnswer": "Print",
+    "category": "General Science"
+  },
+  {
+    "id": 171,
+    "text": "Which of these is the name of a Japanese system of alternative medicine, literally meaning \"finger pressure\"?",
+    "options": [
+      "Shiatsu",
+      "Ukiyo",
+      "Majime",
+      "Ikigai"
+    ],
+    "correctAnswer": "Shiatsu",
+    "category": "General Science"
+  },
+  {
+    "id": 172,
+    "text": "What is the largest rapid transit system in the world by number of stations, with 472 stations in operation?",
+    "options": [
+      "New York City Subway",
+      "Shanghai Metro",
+      "London Underground",
+      "Berlin U-Bahn"
+    ],
+    "correctAnswer": "New York City Subway",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 173,
+    "text": "Where in La Coru&ntilde;a (Spain) is the headquarters of \"Inditex\", the biggest fashion group in the world?",
+    "options": [
+      "Arteijo",
+      "Sanjenjo",
+      "Mug&iacute;a",
+      "&Oacute;rdenes"
+    ],
+    "correctAnswer": "Arteijo",
+    "category": "General Science"
+  },
+  {
+    "id": 174,
+    "text": "The Panama Canal was officially opened by which US president?",
+    "options": [
+      "Woodrow Wilson",
+      "Calvin Coolidge",
+      "Herbert Hoover",
+      "Theodore Roosevelt"
+    ],
+    "correctAnswer": "Woodrow Wilson",
+    "category": "History & Culture"
+  },
+  {
+    "id": 175,
+    "text": " In which country was the Michelin tire company founded in 1889?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "Italy",
+      "Germany"
+    ],
+    "correctAnswer": "France",
+    "category": "General Science"
+  },
+  {
+    "id": 176,
+    "text": "On average, Americans consume 100 pounds of what per second?",
+    "options": [
+      "Chocolate",
+      "Potatoes",
+      "Donuts",
+      "Cocaine"
+    ],
+    "correctAnswer": "Chocolate",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 177,
+    "text": "What is the Italian word for \"tomato\"?",
+    "options": [
+      "Pomodoro",
+      "Aglio",
+      "Cipolla",
+      "Peperoncino"
+    ],
+    "correctAnswer": "Pomodoro",
+    "category": "General Science"
+  },
+  {
+    "id": 178,
+    "text": "In a standard Gregorian calendar, how many months begin with the letter 'J'?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "correctAnswer": "Three",
+    "category": "General Science"
+  },
+  {
+    "id": 179,
+    "text": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+    "options": [
+      "Length",
+      "Quality",
+      "Relation",
+      "Manner"
+    ],
+    "correctAnswer": "Length",
+    "category": "General Science"
+  },
+  {
+    "id": 180,
+    "text": "In a standard set of playing cards, which is the only king without a moustache?",
+    "options": [
+      "Hearts",
+      "Spades",
+      "Diamonds",
+      "Clubs"
+    ],
+    "correctAnswer": "Hearts",
+    "category": "History & Culture"
+  },
+  {
+    "id": 181,
+    "text": "Which candy is NOT made by Mars?",
+    "options": [
+      "Almond Joy",
+      "M&M's",
+      "Twix",
+      "Snickers"
+    ],
+    "correctAnswer": "Almond Joy",
+    "category": "General Science"
+  },
+  {
+    "id": 182,
+    "text": "On a dartboard, what number is directly opposite No. 1?",
+    "options": [
+      "19",
+      "20",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "19",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 183,
+    "text": "What do the letters in the GMT time zone stand for?",
+    "options": [
+      "Greenwich Mean Time",
+      "Global Meridian Time",
+      "General Median Time",
+      "Glasgow Man Time"
+    ],
+    "correctAnswer": "Greenwich Mean Time",
+    "category": "General Science"
+  },
+  {
+    "id": 184,
+    "text": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "options": [
+      "Fiat",
+      "Maserati",
+      "Alfa Romeo",
+      "Ferrari"
+    ],
+    "correctAnswer": "Fiat",
+    "category": "General Science"
+  },
+  {
+    "id": 185,
+    "text": "When someone is cowardly, they are said to have what color belly?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Red",
+      "Blue"
+    ],
+    "correctAnswer": "Yellow",
+    "category": "History & Culture"
+  },
+  {
+    "id": 186,
+    "text": "What zodiac sign is represented by a pair of scales?",
+    "options": [
+      "Libra",
+      "Aries",
+      "Capricorn",
+      "Sagittarius"
+    ],
+    "correctAnswer": "Libra",
+    "category": "General Science"
+  },
+  {
+    "id": 187,
+    "text": "What do the Dutch call their language?",
+    "options": [
+      "Nederlands",
+      "Dansk",
+      "Deutsch",
+      "Hollander"
+    ],
+    "correctAnswer": "Nederlands",
+    "category": "General Science"
+  },
+  {
+    "id": 188,
+    "text": "What is the shortest month of the year?",
+    "options": [
+      "February",
+      "December",
+      "April",
+      "September"
+    ],
+    "correctAnswer": "February",
+    "category": "General Science"
+  },
+  {
+    "id": 189,
+    "text": "Who is depicted on the US hundred dollar bill?",
+    "options": [
+      "Benjamin Franklin",
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ],
+    "correctAnswer": "Benjamin Franklin",
+    "category": "General Science"
+  },
+  {
+    "id": 190,
+    "text": "How would one say goodbye in Spanish?",
+    "options": [
+      "Adi&oacute;s",
+      " Hola",
+      "Au Revoir",
+      "Salir"
+    ],
+    "correctAnswer": "Adi&oacute;s",
+    "category": "General Science"
+  },
+  {
+    "id": 191,
+    "text": "In \"Katamari Damacy\", you control a character known as:",
+    "options": [
+      "The Prince",
+      "Fujio",
+      "Ichigo ",
+      "Foomin"
+    ],
+    "correctAnswer": "The Prince",
+    "category": "General Science"
+  },
+  {
+    "id": 192,
+    "text": "What is the most-visited website out of these options?",
+    "options": [
+      "Google",
+      "YouTube",
+      "Facebook",
+      "Wikipedia"
+    ],
+    "correctAnswer": "Google",
+    "category": "General Science"
+  },
+  {
+    "id": 193,
+    "text": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "options": [
+      "Cube",
+      "Sphere",
+      "Cylinder",
+      "Pyramid"
+    ],
+    "correctAnswer": "Cube",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 194,
+    "text": "In \"Resident Evil 3\", how many inventory slots does Jill have at the start of the game?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "category": "General Science"
+  },
+  {
+    "id": 195,
+    "text": "How many letters are in the English alphabet?",
+    "options": [
+      "26",
+      "30",
+      "17",
+      "5"
+    ],
+    "correctAnswer": "26",
+    "category": "General Science"
+  },
+  {
+    "id": 196,
+    "text": "Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? ",
+    "options": [
+      "Leopard",
+      "Tiger",
+      "Panther",
+      "Puma"
+    ],
+    "correctAnswer": "Leopard",
+    "category": "General Science"
+  },
+  {
+    "id": 197,
+    "text": "What is the Zodiac symbol for Gemini?",
+    "options": [
+      "Twins",
+      "Fish",
+      "Scales",
+      "Maiden"
+    ],
+    "correctAnswer": "Twins",
+    "category": "General Science"
+  },
+  {
+    "id": 198,
+    "text": "This Ghanaian entrepreneur is a pioneer of microlending.",
+    "options": [
+      "Esther Afua Ocloo",
+      "Farida Bedwei",
+      "Ama Ata Aido",
+      "Sionne Neely"
+    ],
+    "correctAnswer": "Esther Afua Ocloo",
+    "category": "General Science"
+  },
+  {
+    "id": 199,
+    "text": "What do the letters of the fast food chain KFC stand for?",
+    "options": [
+      "Kentucky Fried Chicken",
+      "Kentucky Fresh Cheese",
+      "Kibbled Freaky Cow",
+      "Kiwi Food Cut"
+    ],
+    "correctAnswer": "Kentucky Fried Chicken",
+    "category": "General Science"
+  },
+  {
+    "id": 200,
+    "text": "What is a dead mall?",
+    "options": [
+      "A mall with high vacancy rates or low consumer foot traffic",
+      "A mall with no stores",
+      "A mall that has been condemed",
+      "A mall after business hours"
+    ],
+    "correctAnswer": "A mall with high vacancy rates or low consumer foot traffic",
+    "category": "General Science"
+  },
+  {
+    "id": 201,
+    "text": "Which river flows through the Scottish city of Glasgow?",
+    "options": [
+      "Clyde",
+      "Tay",
+      "Dee",
+      "Tweed"
+    ],
+    "correctAnswer": "Clyde",
+    "category": "General Science"
+  },
+  {
+    "id": 202,
+    "text": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+    "options": [
+      "Key",
+      "Sword",
+      "Pen",
+      "Cellphone"
+    ],
+    "correctAnswer": "Key",
+    "category": "History & Culture"
+  },
+  {
+    "id": 203,
+    "text": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+    "options": [
+      "Center Parcs",
+      "Yelloh Village",
+      "Keycamp",
+      "Villa Plus"
+    ],
+    "correctAnswer": "Center Parcs",
+    "category": "General Science"
+  },
+  {
+    "id": 204,
+    "text": "The word \"aprosexia\" means which of the following?",
+    "options": [
+      "The inability to concentrate on anything",
+      "The inability to make decisions",
+      "A feverish desire to rip one's clothes off",
+      "The inability to stand up"
+    ],
+    "correctAnswer": "The inability to concentrate on anything",
+    "category": "General Science"
+  },
+  {
+    "id": 205,
+    "text": "Out of these four buildings, which one is the tallest, with a height of 1,776 ft (541.3 m)?",
+    "options": [
+      "One World Trade Center, United States",
+      "Taipei 101, Taiwan",
+      "Willis Tower, United States",
+      "Jin Mao Tower, China"
+    ],
+    "correctAnswer": "One World Trade Center, United States",
+    "category": "General Science"
+  },
+  {
+    "id": 206,
+    "text": "After how many years would you celebrate your crystal anniversary?",
+    "options": [
+      "15",
+      "20",
+      "10",
+      "25"
+    ],
+    "correctAnswer": "15",
+    "category": "General Science"
+  },
+  {
+    "id": 207,
+    "text": "What company developed the vocaloid Hatsune Miku?",
+    "options": [
+      "Crypton Future Media",
+      "Sega",
+      "Sony",
+      "Yamaha Corporation"
+    ],
+    "correctAnswer": "Crypton Future Media",
+    "category": "General Science"
+  },
+  {
+    "id": 208,
+    "text": "Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+    "options": [
+      "St. Peter's Basilica",
+      "Catania Cathedral",
+      "St. Mark's Basilica",
+      "The Duomo of Florence"
+    ],
+    "correctAnswer": "St. Peter's Basilica",
+    "category": "General Science"
+  },
+  {
+    "id": 209,
+    "text": "Which of these anatomical terms refers to the tail end of the creature?",
+    "options": [
+      "Caudal",
+      "Ventral",
+      "Proximal",
+      "Coronal"
+    ],
+    "correctAnswer": "Caudal",
+    "category": "General Science"
+  },
+  {
+    "id": 210,
+    "text": "What name represents the letter \"M\" in the NATO phonetic alphabet?",
+    "options": [
+      "Mike",
+      "Matthew",
+      "Mark",
+      "Max"
+    ],
+    "correctAnswer": "Mike",
+    "category": "General Science"
+  },
+  {
+    "id": 211,
+    "text": "Red Vines is a brand of what type of candy?",
+    "options": [
+      "Licorice",
+      "Lollipop",
+      "Chocolate",
+      "Bubblegum"
+    ],
+    "correctAnswer": "Licorice",
+    "category": "General Science"
+  },
+  {
+    "id": 212,
+    "text": "Five dollars is worth how many nickels?",
+    "options": [
+      "100",
+      "50",
+      "25",
+      "69"
+    ],
+    "correctAnswer": "100",
+    "category": "General Science"
+  },
+  {
+    "id": 213,
+    "text": "When was Pong released?",
+    "options": [
+      "November 29, 1972",
+      "March 29, 2017",
+      "November 29, 1970",
+      "December 14, 1974"
+    ],
+    "correctAnswer": "November 29, 1972",
+    "category": "General Science"
+  },
+  {
+    "id": 214,
+    "text": "Which of the following nations was NOT a belligerent in World War I?",
+    "options": [
+      "Denmark",
+      "Portugal",
+      "Greece",
+      "Romania"
+    ],
+    "correctAnswer": "Denmark",
+    "category": "History & Culture"
+  },
+  {
+    "id": 215,
+    "text": "In the fictional SCP universe what \"Object Class\" is given to SCP's that cannot be contained.",
+    "options": [
+      "Apollyon",
+      "Thaumiel",
+      "Keter-Thaumiel",
+      "Esoteric/Narrative Classes"
+    ],
+    "correctAnswer": "Apollyon",
+    "category": "General Science"
+  },
+  {
+    "id": 216,
+    "text": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "options": [
+      "Hewlett-Packard",
+      "Toshiba",
+      "Asus",
+      "Dell"
+    ],
+    "correctAnswer": "Hewlett-Packard",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 217,
+    "text": "Which restaurant's mascot is a clown?",
+    "options": [
+      "McDonald's",
+      "Whataburger",
+      "Burger King",
+      "Sonic"
+    ],
+    "correctAnswer": "McDonald's",
+    "category": "General Science"
+  },
+  {
+    "id": 218,
+    "text": "What is the name of the main Character from the Series: Dead Space?",
+    "options": [
+      "Isaac Clarke",
+      "Ellen Ripley",
+      "Commander Shepard",
+      "Captain Kirk"
+    ],
+    "correctAnswer": "Isaac Clarke",
+    "category": "General Science"
+  },
+  {
+    "id": 219,
+    "text": "When was Nintendo founded?",
+    "options": [
+      "September 23rd, 1889",
+      "October 19th, 1891",
+      "March 4th, 1887",
+      "December 27th, 1894"
+    ],
+    "correctAnswer": "September 23rd, 1889",
+    "category": "General Science"
+  },
+  {
+    "id": 220,
+    "text": "In 2013 how much money was lost by Nigerian scams?",
+    "options": [
+      "$12.7 Billion",
+      "$95 Million",
+      "$956 Million",
+      "$2.7 Billion"
+    ],
+    "correctAnswer": "$12.7 Billion",
+    "category": "General Science"
+  },
+  {
+    "id": 221,
+    "text": "What type of dog is 'Handsome Dan', the mascot of Yale University?",
+    "options": [
+      "Bulldog",
+      "Yorkshire Terrier",
+      "Boxer",
+      "Pug"
+    ],
+    "correctAnswer": "Bulldog",
+    "category": "General Science"
+  },
+  {
+    "id": 222,
+    "text": "When was the Playstation 3 released?",
+    "options": [
+      "November 11, 2006",
+      "January 8, 2007",
+      "December 25, 2007",
+      "July 16, 2006"
+    ],
+    "correctAnswer": "November 11, 2006",
+    "category": "General Science"
+  },
+  {
+    "id": 223,
+    "text": "Chartreuse is a color between yellow and what?",
+    "options": [
+      "Green",
+      "Red",
+      "Black",
+      "Purple"
+    ],
+    "correctAnswer": "Green",
+    "category": "General Science"
+  },
+  {
+    "id": 224,
+    "text": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+    "options": [
+      "456 ft",
+      "500 ft",
+      "429 ft",
+      "396 ft"
+    ],
+    "correctAnswer": "456 ft",
+    "category": "History & Culture"
+  },
+  {
+    "id": 225,
+    "text": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+    "options": [
+      "The Shatter's",
+      "Snake Pit",
+      "The Tomb of the Acient's",
+      "The Puppet Master's Theater"
+    ],
+    "correctAnswer": "The Shatter's",
+    "category": "General Science"
+  },
+  {
+    "id": 226,
+    "text": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+    "options": [
+      "Andrew Scott Reisse",
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey"
+    ],
+    "correctAnswer": "Andrew Scott Reisse",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 227,
+    "text": "Where is the train station \"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch\"?",
+    "options": [
+      "Wales",
+      "Moldova",
+      "Czech Republic",
+      "Denmark"
+    ],
+    "correctAnswer": "Wales",
+    "category": "General Science"
+  },
+  {
+    "id": 228,
+    "text": "Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?",
+    "options": [
+      "Burj Khalifa, United Arab Emirates",
+      "Shanghai Tower, China",
+      "Lotte World Tower, South Korea",
+      "Ping An Finance Centre, China"
+    ],
+    "correctAnswer": "Burj Khalifa, United Arab Emirates",
+    "category": "General Science"
+  },
+  {
+    "id": 229,
+    "text": "In the Morse code, which letter is indicated by 3 dots? ",
+    "options": [
+      "S",
+      "O",
+      "A",
+      "C"
+    ],
+    "correctAnswer": "S",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 230,
+    "text": "What was the destination of the missing flight MH370?",
+    "options": [
+      "Beijing",
+      "Kuala Lumpur",
+      "Singapore",
+      "Tokyo"
+    ],
+    "correctAnswer": "Beijing",
+    "category": "General Science"
+  },
+  {
+    "id": 231,
+    "text": "What is the name of the currency used in Ethiopia?",
+    "options": [
+      "Birr",
+      "Dirham",
+      "U.S. Dollar",
+      "Rand"
+    ],
+    "correctAnswer": "Birr",
+    "category": "General Science"
+  },
+  {
+    "id": 232,
+    "text": "What is the currency of Poland?",
+    "options": [
+      "Złoty",
+      "Ruble",
+      "Euro",
+      "Krone"
+    ],
+    "correctAnswer": "Złoty",
+    "category": "General Science"
+  },
+  {
+    "id": 233,
+    "text": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+    "options": [
+      "Peace",
+      "Physics",
+      "Economics",
+      "Physiology/Medicine"
+    ],
+    "correctAnswer": "Peace",
+    "category": "General Science"
+  },
+  {
+    "id": 234,
+    "text": "Only 9% of US Households owned a television in ",
+    "options": [
+      "1950",
+      "1965",
+      "1913",
+      "1969"
+    ],
+    "correctAnswer": "1950",
+    "category": "General Science"
+  },
+  {
+    "id": 235,
+    "text": "What do sailors call the right side of a boat?",
+    "options": [
+      "Starboard",
+      "Port",
+      "Stern",
+      "Bow"
+    ],
+    "correctAnswer": "Starboard",
+    "category": "General Science"
+  },
+  {
+    "id": 236,
+    "text": "Which mountain has the highest peak in South America?",
+    "options": [
+      "Aconcagua, Argentina",
+      "Ojos del Salado, Argentina/Chile border",
+      "Monte Pissis, Argentina",
+      "Huascar&aacute;n, Peru"
+    ],
+    "correctAnswer": "Aconcagua, Argentina",
+    "category": "General Science"
+  },
+  {
+    "id": 237,
+    "text": "Which one of these is not a typical European sword design?",
+    "options": [
+      "Scimitar",
+      "Falchion",
+      "Ulfberht",
+      "Flamberge"
+    ],
+    "correctAnswer": "Scimitar",
+    "category": "General Science"
+  },
+  {
+    "id": 238,
+    "text": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+    "options": [
+      "Edward VIII",
+      "Victoria",
+      "George VI",
+      "Charles II"
+    ],
+    "correctAnswer": "Edward VIII",
+    "category": "General Science"
+  },
+  {
+    "id": 239,
+    "text": "What country has had prime ministers named Eden, Major, Peel, Law, Brown and Heath?",
+    "options": [
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Canada"
+    ],
+    "correctAnswer": "United Kingdom",
+    "category": "General Science"
+  },
+  {
+    "id": 240,
+    "text": "Named after the mallow flower, mauve is a shade of what?",
+    "options": [
+      "Purple",
+      "Red",
+      "Brown",
+      "Pink"
+    ],
+    "correctAnswer": "Purple",
+    "category": "General Science"
+  },
+  {
+    "id": 241,
+    "text": "According to the BBPA, what is the most common pub name in the UK?",
+    "options": [
+      "Red Lion",
+      "Royal Oak",
+      "White Hart",
+      "King's Head"
+    ],
+    "correctAnswer": "Red Lion",
+    "category": "General Science"
+  },
+  {
+    "id": 242,
+    "text": "When was the Declaration of Independence approved by the Second Continental Congress?",
+    "options": [
+      "July 4, 1776",
+      "May 4, 1776",
+      "June 4, 1776",
+      "July 2, 1776"
+    ],
+    "correctAnswer": "July 4, 1776",
+    "category": "History & Culture"
+  },
+  {
+    "id": 243,
+    "text": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+    "options": [
+      "Thomas Jefferson",
+      "Martin Van Buren",
+      "Ulysses Grant",
+      "John Quincy Adams"
+    ],
+    "correctAnswer": "Thomas Jefferson",
+    "category": "History & Culture"
+  },
+  {
+    "id": 244,
+    "text": "Which of the following is not the host of a program on NPR?",
+    "options": [
+      "Ben Shapiro",
+      "Terry Gross",
+      "Ira Glass",
+      "Peter Sagal"
+    ],
+    "correctAnswer": "Ben Shapiro",
+    "category": "General Science"
+  },
+  {
+    "id": 245,
+    "text": "Coleslaw originated from which European country?",
+    "options": [
+      "The Netherlands",
+      "United Kingdom",
+      "Denmark",
+      "Germany"
+    ],
+    "correctAnswer": "The Netherlands",
+    "category": "General Science"
+  },
+  {
+    "id": 246,
+    "text": "Which country has the most Trappist breweries?",
+    "options": [
+      "Belgium",
+      "Netherlands",
+      "France",
+      "USA"
+    ],
+    "correctAnswer": "Belgium",
+    "category": "General Science"
+  },
+  {
+    "id": 247,
+    "text": "What does the \"G\" mean in \"G-Man\"?",
+    "options": [
+      "Government",
+      "Going",
+      "Ghost",
+      "Geronimo"
+    ],
+    "correctAnswer": "Government",
+    "category": "General Science"
+  },
+  {
+    "id": 248,
+    "text": "If you are traveling at a speed of 80 mph, how long will it take you to drive 80 miles?",
+    "options": [
+      "60 minutes",
+      "90 minutes",
+      "30 minutes",
+      "50 minutes"
+    ],
+    "correctAnswer": "60 minutes",
+    "category": "General Science"
+  },
+  {
+    "id": 249,
+    "text": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+    "options": [
+      "Niagara Mohawk Building",
+      "Taipei 101",
+      "One Detroit Center",
+      "Westendstrasse 1"
+    ],
+    "correctAnswer": "Niagara Mohawk Building",
+    "category": "General Science"
+  },
+  {
+    "id": 250,
+    "text": "Which canal connects the Mediterranean Sea with the Red Sea?",
+    "options": [
+      "Suez Canal",
+      "Panama Canal",
+      "Sinai Canal",
+      "Qaraqum Canal"
+    ],
+    "correctAnswer": "Suez Canal",
+    "category": "General Science"
+  },
+  {
+    "id": 251,
+    "text": "Nephelococcygia is the practice of doing what?",
+    "options": [
+      "Finding shapes in clouds",
+      "Sleeping with your eyes open",
+      "Breaking glass with your voice",
+      "Swimming in freezing water"
+    ],
+    "correctAnswer": "Finding shapes in clouds",
+    "category": "General Science"
+  },
+  {
+    "id": 252,
+    "text": "The American company \"Campbell's\" is most well known for making what food product?",
+    "options": [
+      "Canned soups",
+      "Chocolate",
+      "Soft drinks",
+      "Sausages"
+    ],
+    "correctAnswer": "Canned soups",
+    "category": "History & Culture"
+  },
+  {
+    "id": 253,
+    "text": "What is H2O?",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Hydrogen",
+      "None"
+    ],
+    "correctAnswer": "Water",
+    "category": "General Science"
+  },
+  {
+    "id": 254,
+    "text": "The Quran is the holy book of which Abrahamic religion?",
+    "options": [
+      "Islam",
+      "Christianity",
+      "Judaism",
+      "Rastafarianism"
+    ],
+    "correctAnswer": "Islam",
+    "category": "General Science"
+  },
+  {
+    "id": 255,
+    "text": "Going by the International Code of Signals, which single flag is interpreted as \"I require assistance (not distress)\"?",
+    "options": [
+      "Victor",
+      "Kilo",
+      "Papa",
+      "Delta"
+    ],
+    "correctAnswer": "Victor",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 256,
+    "text": "Which mountain has the highest peak in Europe?",
+    "options": [
+      "Mount Elbrus, Russia",
+      "Shkhara, Georgia",
+      "Mount Ararat, Turkey",
+      "Mont Blanc, France"
+    ],
+    "correctAnswer": "Mount Elbrus, Russia",
+    "category": "General Science"
+  },
+  {
+    "id": 257,
+    "text": "In \"Shrek\", what comedic actor voices Donkey?",
+    "options": [
+      "Eddie Murphy",
+      "Chris Rock",
+      "Richard Pryor",
+      "Bernie Mac"
+    ],
+    "correctAnswer": "Eddie Murphy",
+    "category": "General Science"
+  },
+  {
+    "id": 258,
+    "text": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
+    "options": [
+      "Petronas Twin Towers, Malaysia",
+      "Zifeng Tower, China",
+      "Trump Intl. Hotel & Tower, United States",
+      "Al Hamra Tower, Kuwait"
+    ],
+    "correctAnswer": "Petronas Twin Towers, Malaysia",
+    "category": "General Science"
+  },
+  {
+    "id": 259,
+    "text": "What is the name of the popular animatronic singing fish prop, singing such hits such as \"Don't Worry, Be Happy\"?",
+    "options": [
+      "Big Mouth Billy Bass",
+      "Big Billy Bass",
+      "Singing Fish",
+      "Sardeen"
+    ],
+    "correctAnswer": "Big Mouth Billy Bass",
+    "category": "General Science"
+  },
+  {
+    "id": 260,
+    "text": "What is the name of the alcoholic beverage made from potatoes or grains that originates from Poland and Russia?",
+    "options": [
+      "Vodka",
+      "Absinthe",
+      "Rum",
+      "Sake"
+    ],
+    "correctAnswer": "Vodka",
+    "category": "General Science"
+  },
+  {
+    "id": 261,
+    "text": "Which mountain has the highest peak in Australia?",
+    "options": [
+      "Mount Kosciuszko, New South Wales",
+      "Mount Ossa, Tasmania",
+      "Mount Bartle Frere, Queensland",
+      "Mount Zeil, Northern Territory"
+    ],
+    "correctAnswer": "Mount Kosciuszko, New South Wales",
+    "category": "General Science"
+  },
+  {
+    "id": 262,
+    "text": "What is the name of the poker hand containing three of a kind and a pair?",
+    "options": [
+      "Full House",
+      "Flush",
+      "Straight",
+      "High card"
+    ],
+    "correctAnswer": "Full House",
+    "category": "General Science"
+  },
+  {
+    "id": 263,
+    "text": "Rolex is a company that specializes in what type of product?",
+    "options": [
+      "Watches",
+      "Cars",
+      "Computers",
+      "Sports equipment"
+    ],
+    "correctAnswer": "Watches",
+    "category": "General Science"
+  },
+  {
+    "id": 264,
+    "text": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Stomach",
+      "Intestines"
+    ],
+    "correctAnswer": "Liver",
+    "category": "General Science"
+  },
+  {
+    "id": 265,
+    "text": "How many notes are there on a standard grand piano?",
+    "options": [
+      "88",
+      "98",
+      "108",
+      "78"
+    ],
+    "correctAnswer": "88",
+    "category": "General Science"
+  },
+  {
+    "id": 266,
+    "text": "What is the world's most expensive spice by weight?",
+    "options": [
+      "Saffron",
+      "Cinnamon",
+      "Cardamom",
+      "Vanilla"
+    ],
+    "correctAnswer": "Saffron",
+    "category": "General Science"
+  },
+  {
+    "id": 267,
+    "text": "Which mountain has the highest peak in North America?",
+    "options": [
+      "Denali, USA",
+      "Mount Saint Elias, US/Canada border",
+      "Mount Logan, Canada",
+      "Pico de Orizaba, Mexico"
+    ],
+    "correctAnswer": "Denali, USA",
+    "category": "General Science"
+  },
+  {
+    "id": 268,
+    "text": "Which of the following is the IATA code for Manchester Airport?",
+    "options": [
+      "MAN",
+      "EGLL",
+      "LHR",
+      "EGCC"
+    ],
+    "correctAnswer": "MAN",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 269,
+    "text": "The Hyundai Motor Company was founded in which country?",
+    "options": [
+      "South Korea",
+      "Russia",
+      "Japan",
+      "China"
+    ],
+    "correctAnswer": "South Korea",
+    "category": "General Science"
+  },
+  {
+    "id": 270,
+    "text": "What do sailors call the left side of a boat?",
+    "options": [
+      "Port",
+      "Starboard",
+      "Bow",
+      "Stern"
+    ],
+    "correctAnswer": "Port",
+    "category": "General Science"
+  },
+  {
+    "id": 271,
+    "text": "What is the perimeter of a circle more commonly known as?",
+    "options": [
+      "Circumference",
+      "Diameter",
+      "Radius",
+      "Arc"
+    ],
+    "correctAnswer": "Circumference",
+    "category": "General Science"
+  },
+  {
+    "id": 272,
+    "text": "Amsterdam Centraal station is twinned with what station?",
+    "options": [
+      "London Liverpool Street",
+      "Frankfurt (Main) Hauptbahnhof",
+      "Paris Gare du Nord",
+      "Brussels Midi"
+    ],
+    "correctAnswer": "London Liverpool Street",
+    "category": "General Science"
+  },
+  {
+    "id": 273,
+    "text": "What is the full meaning of RAM?",
+    "options": [
+      "Random Access Memory",
+      "Random Assist Memory",
+      "Rand Assist Mandate",
+      "Ram"
+    ],
+    "correctAnswer": "Random Access Memory",
+    "category": "General Science"
+  },
+  {
+    "id": 274,
+    "text": "What does a milliner make and sell?",
+    "options": [
+      "Hats",
+      "Shoes",
+      "Belts",
+      "Shirts"
+    ],
+    "correctAnswer": "Hats",
+    "category": "General Science"
+  },
+  {
+    "id": 275,
+    "text": "What are the three starter Pokemon available in Pokemon Black and White?",
+    "options": [
+      "Snivy, Tepig, Oshawott",
+      "Snivy, Fennekin, Froakie",
+      "Chespin, Tepig, Froakie",
+      "Chespin, Fennekin, Oshawott"
+    ],
+    "correctAnswer": "Snivy, Tepig, Oshawott",
+    "category": "General Science"
+  },
+  {
+    "id": 276,
+    "text": "Who is the youngest person to receive a Nobel Prize?",
+    "options": [
+      "Malala Yousafzai",
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat"
+    ],
+    "correctAnswer": "Malala Yousafzai",
+    "category": "General Science"
+  },
+  {
+    "id": 277,
+    "text": "What does the F stand for in the FBI?",
+    "options": [
+      "Federal",
+      "Foreign",
+      "Formal",
+      "First"
+    ],
+    "correctAnswer": "Federal",
+    "category": "General Science"
+  },
+  {
+    "id": 278,
+    "text": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+    "options": [
+      "28%",
+      "13%",
+      "20%",
+      "7%"
+    ],
+    "correctAnswer": "28%",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 279,
+    "text": "Which language is NOT Indo-European?",
+    "options": [
+      "Hungarian",
+      "Russian",
+      "Greek",
+      "Latvian"
+    ],
+    "correctAnswer": "Hungarian",
+    "category": "General Science"
+  },
+  {
+    "id": 280,
+    "text": "Which month is Black History Month in the US?",
+    "options": [
+      "February",
+      "May",
+      "November",
+      "August"
+    ],
+    "correctAnswer": "February",
+    "category": "History & Culture"
+  },
+  {
+    "id": 281,
+    "text": "Which of these holidays is NOT usually celebrated in the month of December?",
+    "options": [
+      "Thanksgiving",
+      "Christmas",
+      "Kwanzaa",
+      "Hanukkah"
+    ],
+    "correctAnswer": "Thanksgiving",
+    "category": "General Science"
+  },
+  {
+    "id": 282,
+    "text": "Which of these Marvel games was released on the Playstation 2?",
+    "options": [
+      "Spider-Man 2",
+      "Silver Surfer",
+      "Howard the Duck",
+      "Wolverine: Adamantium Rage"
+    ],
+    "correctAnswer": "Spider-Man 2",
+    "category": "General Science"
+  },
+  {
+    "id": 283,
+    "text": "What is the famous Papa John's last name?",
+    "options": [
+      "Schnatter",
+      "Chowder",
+      "Williams",
+      "ANDERSON"
+    ],
+    "correctAnswer": "Schnatter",
+    "category": "General Science"
+  },
+  {
+    "id": 284,
+    "text": "Xanthophobia is the fear of what color?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "correctAnswer": "Yellow",
+    "category": "General Science"
+  },
+  {
+    "id": 285,
+    "text": "What is the romanized Japanese word for \"university\"?",
+    "options": [
+      "Daigaku",
+      "Toshokan",
+      "Jimusho",
+      "Shokudou"
+    ],
+    "correctAnswer": "Daigaku",
+    "category": "General Science"
+  },
+  {
+    "id": 286,
+    "text": "What is \"dabbing\"?",
+    "options": [
+      "A dance",
+      "A medical procedure",
+      "A sport",
+      "A language"
+    ],
+    "correctAnswer": "A dance",
+    "category": "General Science"
+  },
+  {
+    "id": 287,
+    "text": "What is the last letter of the Greek alphabet?",
+    "options": [
+      "Omega",
+      "Mu",
+      "Epsilon",
+      "Kappa"
+    ],
+    "correctAnswer": "Omega",
+    "category": "General Science"
+  },
+  {
+    "id": 288,
+    "text": "The tale of Robin Hood originates from which country?",
+    "options": [
+      "England",
+      "France",
+      "Portugal",
+      "Scotland"
+    ],
+    "correctAnswer": "England",
+    "category": "General Science"
+  },
+  {
+    "id": 289,
+    "text": "How many fingers does a single human hand have?",
+    "options": [
+      "Four",
+      "Five",
+      "Ten",
+      "Eight"
+    ],
+    "correctAnswer": "Four",
+    "category": "General Science"
+  },
+  {
+    "id": 290,
+    "text": "What is the real name of viral internet meme Grumpy Cat?",
+    "options": [
+      "Tardar Sauce",
+      "Lil Bub",
+      "Maru",
+      "Colonel Meow"
+    ],
+    "correctAnswer": "Tardar Sauce",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 291,
+    "text": "If someone said \"you are olid\", what would they mean?",
+    "options": [
+      "You smell extremely unpleasant.",
+      "You are out of shape/weak.",
+      "Your appearance is repulsive.",
+      "You are incomprehensible/an idiot."
+    ],
+    "correctAnswer": "You smell extremely unpleasant.",
+    "category": "General Science"
+  },
+  {
+    "id": 292,
+    "text": "The Mexican Beer \"Corona\" is what type of beer?",
+    "options": [
+      "Pale Lager",
+      "India Pale Ale",
+      "Pilfsner",
+      "Baltic Porter"
+    ],
+    "correctAnswer": "Pale Lager",
+    "category": "General Science"
+  },
+  {
+    "id": 293,
+    "text": "What is the closest planet to our solar system's sun?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Jupiter",
+      "Earth"
+    ],
+    "correctAnswer": "Mercury",
+    "category": "General Science"
+  },
+  {
+    "id": 294,
+    "text": "What is the French word for \"fish\"?",
+    "options": [
+      "poisson",
+      "fiche",
+      "escargot",
+      "mer"
+    ],
+    "correctAnswer": "poisson",
+    "category": "General Science"
+  },
+  {
+    "id": 295,
+    "text": "The word \"dozen\" usually refers to a group of how many objects?",
+    "options": [
+      "12",
+      "6",
+      "20",
+      "10"
+    ],
+    "correctAnswer": "12",
+    "category": "General Science"
+  },
+  {
+    "id": 296,
+    "text": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+    "options": [
+      "Ed Sheeran - I See Fire",
+      "Marvin Gaye - Sexual Healing",
+      "Coldplay - Midnight",
+      "a-ha - Take On Me"
+    ],
+    "correctAnswer": "Ed Sheeran - I See Fire",
+    "category": "General Science"
+  },
+  {
+    "id": 297,
+    "text": "Which of these words refers to something made, distributed, or sold illegally?",
+    "options": [
+      "Bootleg",
+      "Bootblack",
+      "Bootlace",
+      "Bootstrap"
+    ],
+    "correctAnswer": "Bootleg",
+    "category": "General Science"
+  },
+  {
+    "id": 298,
+    "text": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+    "options": [
+      "Warriors of Hope",
+      "The Monokubs",
+      "Warriors of Despair",
+      "The Ultimate Despair"
+    ],
+    "correctAnswer": "Warriors of Hope",
+    "category": "General Science"
+  },
+  {
+    "id": 299,
+    "text": "What is Soroban in the Stellar ecosystem?",
+    "options": [
+      "A smart contract platform",
+      "A consensus algorithm",
+      "A hardware wallet",
+      "A DEX aggregator"
+    ],
+    "correctAnswer": "A smart contract platform",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 300,
+    "text": "What smart contract language ecosystem is Soroban natively written in?",
+    "options": [
+      "Rust",
+      "Solidity",
+      "Vyper",
+      "Go"
+    ],
+    "correctAnswer": "Rust",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 301,
+    "text": "What is the native asset of the Stellar Network?",
+    "options": [
+      "Lumen (XLM)",
+      "Ether (ETH)",
+      "Solana (SOL)",
+      "Bitcoin (BTC)"
+    ],
+    "correctAnswer": "Lumen (XLM)",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 302,
+    "text": "What consensus mechanism does the Stellar Network use?",
+    "options": [
+      "Stellar Consensus Protocol (SCP)",
+      "Proof of Work (PoW)",
+      "Proof of Stake (PoS)",
+      "Delegated PoS"
+    ],
+    "correctAnswer": "Stellar Consensus Protocol (SCP)",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 303,
+    "text": "Which WebAssembly (WASM) execution environment powers Soroban?",
+    "options": [
+      "Wasmer / Wasmtime",
+      "EVM",
+      "JVM",
+      "V8 Engine"
+    ],
+    "correctAnswer": "Wasmer / Wasmtime",
+    "category": "Stellar & Crypto"
+  },
+  {
+    "id": 304,
+    "text": "What does IPFS stand for in Web3 storage?",
+    "options": [
+      "InterPlanetary File System",
+      "Internal Protocol File Storage",
+      "Integrated Public File Service",
+      "Interconnected Peer File Structure"
+    ],
+    "correctAnswer": "InterPlanetary File System",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 305,
+    "text": "Which cryptographic hash function is standard in SHA-2 family?",
+    "options": [
+      "SHA-256",
+      "MD5",
+      "CRC32",
+      "Base64"
+    ],
+    "correctAnswer": "SHA-256",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 306,
+    "text": "What is the primary role of zero-knowledge proofs (ZKPs)?",
+    "options": [
+      "Prove truth of a statement without revealing underlying data",
+      "Speed up internet connections",
+      "Encrypt files on hard drives",
+      "Generate random numbers"
+    ],
+    "correctAnswer": "Prove truth of a statement without revealing underlying data",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 307,
+    "text": "Which protocol layer deals with IP addressing and routing packets?",
+    "options": [
+      "Network Layer (Layer 3)",
+      "Application Layer (Layer 7)",
+      "Data Link Layer (Layer 2)",
+      "Physical Layer (Layer 1)"
+    ],
+    "correctAnswer": "Network Layer (Layer 3)",
+    "category": "Web3 & Tech"
+  },
+  {
+    "id": 308,
+    "text": "Who was the first Emperor of ancient Rome?",
+    "options": [
+      "Augustus",
+      "Julius Caesar",
+      "Nero",
+      "Marcus Aurelius"
+    ],
+    "correctAnswer": "Augustus",
+    "category": "History & Culture"
+  },
+  {
+    "id": 309,
+    "text": "In which year did the French Revolution begin?",
+    "options": [
+      "1789",
+      "1776",
+      "1812",
+      "1848"
+    ],
+    "correctAnswer": "1789",
+    "category": "History & Culture"
+  },
+  {
+    "id": 310,
+    "text": "Which ancient civilization built the city of Machu Picchu?",
+    "options": [
+      "Inca",
+      "Mayan",
+      "Aztec",
+      "Toltec"
+    ],
+    "correctAnswer": "Inca",
+    "category": "History & Culture"
+  },
+  {
+    "id": 311,
+    "text": "The Magna Carta was signed by King John of England in which year?",
+    "options": [
+      "1215",
+      "1066",
+      "1492",
+      "1314"
+    ],
+    "correctAnswer": "1215",
+    "category": "History & Culture"
+  },
+  {
+    "id": 312,
+    "text": "What is the value of Pi rounded to 4 decimal places?",
+    "options": [
+      "3.1416",
+      "3.1415",
+      "3.1420",
+      "3.1412"
+    ],
+    "correctAnswer": "3.1416",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 313,
+    "text": "What is the derivative of x^2 with respect to x?",
+    "options": [
+      "2x",
+      "x",
+      "x^2",
+      "2"
+    ],
+    "correctAnswer": "2x",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 314,
+    "text": "In Boolean algebra, what is the output of 1 AND 0?",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "Null"
+    ],
+    "correctAnswer": "0",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 315,
+    "text": "What is the sum of angles in a triangle in Euclidean geometry?",
+    "options": [
+      "180 degrees",
+      "360 degrees",
+      "90 degrees",
+      "270 degrees"
+    ],
+    "correctAnswer": "180 degrees",
+    "category": "Math & Logic"
+  },
+  {
+    "id": 316,
+    "text": "What is the 7th number in the Fibonacci sequence starting from 1, 1?",
+    "options": [
+      "13",
+      "8",
+      "21",
+      "5"
+    ],
+    "correctAnswer": "13",
+    "category": "Math & Logic"
+  }
+]
