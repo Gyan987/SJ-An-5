@@ -1,5 +1,5 @@
 import { getQuestion, getTotalQuizzes, CONTRACT_ID } from './src/services/soroban';
-
+ 
 async function check() {
   console.log('Contract ID:', CONTRACT_ID);
   try {
