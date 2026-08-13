@@ -1,4 +1,4 @@
-# Stellar Soroban Smart Contract Deployment Guide
+# Stellar Soroban Smart Contract Deployment Guide 
 
 This guide details the end-to-end workflow for compiling, optimizing, deploying, and seeding the Decentralized Quiz App smart contract on the **Stellar Testnet**.
 
