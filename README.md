@@ -1,4 +1,4 @@
-# 🧠 Decentralized Quiz App
+# 🧠 Decentralized Quiz App 
 
 [![Stellar](https://img.shields.io/badge/Network-Stellar-blue?style=for-the-badge&logo=stellar)](https://stellar.org)
 [![Soroban](https://img.shields.io/badge/Standard-Soroban-green?style=for-the-badge&logo=rust)](https://soroban.stellar.org)
