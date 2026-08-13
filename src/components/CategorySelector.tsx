@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+import { motion } from 'framer-motion'; 
 import { Layers, Rocket, Cpu, Sparkles, Landmark, Binary } from 'lucide-react';
 import type { QuizCategory } from '../types';
 
