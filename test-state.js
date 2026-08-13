@@ -1,4 +1,4 @@
-import { rpc, Contract, scValToNative, Networks, TransactionBuilder, BASE_FEE } from '@stellar/stellar-sdk';
+import { rpc, Contract, scValToNative, Networks, TransactionBuilder, BASE_FEE } from '@stellar/stellar-sdk'; 
 
 const CONTRACT_ID = 'CA7G4HLPGTLG6BH6YREVWJXEQ4NX74HTD444JD6A6XYS7DOFL2J6DEIU3J';
 const RPC_URL = 'https://soroban-testnet.stellar.org';
