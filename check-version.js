@@ -1,4 +1,4 @@
-import {
+import { 
   rpc,
   Contract,
   nativeToScVal,
