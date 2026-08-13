@@ -1,4 +1,4 @@
-// Quick test to verify the contract accepts string-type user addresses
+// Quick test to verify the contract accepts string-type user addresses 
 import {
   rpc,
   Contract,
